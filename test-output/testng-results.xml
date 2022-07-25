@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="479" started-at="2022-07-18T15:28:53 IST" finished-at="2022-07-18T15:28:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="479" started-at="2022-07-18T15:28:53 IST" finished-at="2022-07-18T15:28:53 IST">
+      <class name="org.maven.MavenPractice">
+        <test-method status="PASS" signature="Sample3()[pri:0, instance:org.maven.MavenPractice@87f383f]" name="Sample3" duration-ms="138" started-at="2022-07-18T15:28:53 IST" finished-at="2022-07-18T15:28:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample3 -->
+        <test-method status="PASS" signature="Sample1()[pri:0, instance:org.maven.MavenPractice@87f383f]" name="Sample1" duration-ms="139" started-at="2022-07-18T15:28:53 IST" finished-at="2022-07-18T15:28:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1 -->
+        <test-method status="PASS" signature="Sample2()[pri:0, instance:org.maven.MavenPractice@87f383f]" name="Sample2" duration-ms="138" started-at="2022-07-18T15:28:53 IST" finished-at="2022-07-18T15:28:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2 -->
+      </class> <!-- org.maven.MavenPractice -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
