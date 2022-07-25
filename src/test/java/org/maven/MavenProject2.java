@@ -18,4 +18,9 @@ public class MavenProject2 {
 	{
 		System.out.println("DemoMavenPratice3");
 	}
+	@Test
+	public void Demo4()
+	{
+		System.out.println("DemoMavenPratice4");
+	}
 }
